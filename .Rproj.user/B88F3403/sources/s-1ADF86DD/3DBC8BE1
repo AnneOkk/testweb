@@ -1,0 +1,26 @@
+{
+    "id": "3DBC8BE1",
+    "path": "~/Reporting/Testfolder/testblogdown/test/config.yaml",
+    "project_path": "config.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1653333976486.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "237,0",
+        "scrollLine": "210"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1653334013,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653334013847,
+    "read_only": false,
+    "read_only_alternatives": []
+}
